@@ -1,0 +1,11 @@
+
+.env
+credentials/
+*.json
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
